@@ -9,8 +9,6 @@ def int_or_str_list(list):
 
     return list
 
-######
-
 def input_as_int():
 
     len_list = input('Kérem adja meg a lista hosszát (számként): ')
