@@ -4,6 +4,8 @@ listát ki kell íratni a konzolra.
 
 Továbbfejlesztések:
 
-Implementálj általad készített buborék-rendezés (bubblesort) algoritmust! A rendezés megadása során lehessen a rendezési algoritmust is kiválasztani!
-Implementálj általad készített beszúró (insertion sort) rendezést!
-Implementálj általad készített minimum kiválasztásos (minsort) rendezést!
+1., Implementálj általad készített buborék-rendezés (bubblesort) algoritmust! A rendezés megadása során lehessen a rendezési algoritmust is kiválasztani!
+
+2., Implementálj általad készített beszúró (insertion sort) rendezést!
+
+3., Implementálj általad készített minimum kiválasztásos (minsort) rendezést!
